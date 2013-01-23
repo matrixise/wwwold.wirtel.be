@@ -1,0 +1,9 @@
+---
+title: FeedBurner added !
+kind: article
+author: Stephane Wirtel
+created_at: 2012-02-22 06:50:00
+published: true
+---
+
+I just create a new "atom feed":http://feeds.feedburner.com/wirtel for this site.

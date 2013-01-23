@@ -1,0 +1,13 @@
+---
+title: JsLive.fr
+kind: article
+author: Stephane Wirtel
+created_at: 2012-02-21
+published: true
+language: fr
+excerpt: "The Human Coders nous présente JsLive.fr, un site reprenant des news sur le monde de Javascript"
+---
+
+Tout comme "RubyLive.fr":http://www.rubylive.fr qui reprend des news du monde Ruby et particulièrement du monde Francophone, "JsLive.fr":http://jslive.fr sera son équivalent pour le monde Javascript. Ce site a été créé par "Camille Roux":https://twitter.com/CamilleRoux et "Matthieu Segret":https://twitter.com/matthieusegret des "Human Coders":http://humancoders.com/ .
+
+

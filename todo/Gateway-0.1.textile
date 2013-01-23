@@ -1,0 +1,11 @@
+---
+title: Gateway 0.1
+kind: article
+author: Stephane Wirtel
+created_at: 2012-10-01
+updated_at: 2012-10-01
+tags: ['gateway', 'python', 'wsgi', 'redis', 'worker']
+published: false
+---
+
+Today, I would like to write an article about Gateway, a new project developed by your slave ;-)

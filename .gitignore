@@ -35,6 +35,4 @@ nosetests.xml
 .pydevproject
 .*.swp
 
-# database
-pythonfosdem/pythonfosdem.db
-*.sql
+output/

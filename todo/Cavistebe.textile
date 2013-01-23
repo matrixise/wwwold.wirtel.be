@@ -1,0 +1,19 @@
+---
+title: Caviste.be
+kind: article
+author: Stephane Wirtel
+created_at: 2012-09-24
+updated_at: 2012-09-24
+tags: ['caviste.be']
+published: true
+language: fr
+---
+Il est rare que j'en parle, mais depuis cette nuit, j'ai placé sur un serveur une interface permettant à des utilisateurs d'insérer des événements pour le site web de Caviste.be
+
+Pour le moment, c'est en *BETA* et je devrais avoir du retour assez rapidement, mais si vous désirez tester, pas de soucis.
+
+Donc cela se passe par "ici":http://caviste.be
+
+Bon amusement,
+
+Stéphane
