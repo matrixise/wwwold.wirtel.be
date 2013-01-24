@@ -50,3 +50,5 @@ TWITTER_USERNAME='matrixise'
 
 FEED_RSS = 'feeds/all.rss.xml'
 CATEGORY_FEED_RSS='feeds/%s.rss.xml'
+
+TAG_FEED_RSS = 'feeds/tag_%s.rss.xml'
