@@ -40,7 +40,7 @@ html: clean $(OUTPUTDIR)/index.html
 	@echo 'Done'
 
 $(OUTPUTDIR)/%.html:
-	$(PELICAN) -D $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
+	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 
 clean:
 	find $(OUTPUTDIR) -mindepth 1 -delete
