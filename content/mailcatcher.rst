@@ -68,9 +68,10 @@ l’exemple ci-dessous
 Vérification
 ------------
 
-.. figure:: {width: 800px}http://i.imgur.com/kg2QC.png
+.. figure:: http://i.imgur.com/kg2QC.png
    :align: center
    :alt: 
+   :width: 800
 
 Comme vous pouvez le constater, mon mail est bien arrivé dans
 MailCatcher, et il m’est donc possible de le regarder à mon aise.
