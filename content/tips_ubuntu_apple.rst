@@ -1,6 +1,7 @@
 :date: 2013-02-13
 :slug: download_ubuntu_and_create_usb_stick_apple
 :tags: tips,osx,ubuntu,usb
+:title: Download Ubuntu and create USB stick with your Mac
 
 Download Ubuntu and create USB stick with your Mac
 ##################################################

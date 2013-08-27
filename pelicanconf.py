@@ -32,12 +32,12 @@ SOCIAL = (
 DEFAULT_PAGINATION = 10
 TYPOGRIFY = True
 
-from pelican.plugins import gravatar
+#from pelican.plugins import gravatar
 from plugins import drafts
 from plugins import gist
 
 PLUGINS = [
-    gravatar,
+#    gravatar,
     drafts,
     gist,
 ]

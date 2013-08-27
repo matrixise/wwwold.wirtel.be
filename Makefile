@@ -12,7 +12,7 @@ FTP_USER=anonymous
 FTP_TARGET_DIR=/
 
 SSH_HOST=wirtel.be
-SSH_PORT=22
+SSH_PORT=2101
 SSH_USER=root
 SSH_TARGET_DIR=/home/www/www.wirtel.be
 
